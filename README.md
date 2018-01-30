@@ -1,1 +1,1 @@
-# xffighting.github.io
+# xffighting@xffighting.github.io
